@@ -4,7 +4,7 @@
 A simple Python program that converts English text to Morse code.
 
 ## Features
-- Converts letters A-Z to standard Morse code
+- Converts letters A-Z and 0-9 to standard Morse code
 - Handles spaces between words with `/` separator
 - Shows `?` for invalid characters
 - Clean command-line interface
